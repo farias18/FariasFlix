@@ -1,0 +1,250 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-boxs;
+}
+h1 {
+  color: red;
+  font-size: 45px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.pinicial {
+  background: rgb(255, 0, 0);
+  border-radius: 10px;
+  padding: 12px;
+  width: 500px;
+  margin: auto;
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  font-family: monospace;
+}
+.filme1 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.filme1 p {
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+.p1 {
+  background: rgb(255, 0, 0);
+  border-radius: 10px;
+  padding: 8px;
+  width: 300px;
+  margin: auto;
+}
+.filme1 img {
+  width: 600px;
+  margin: 0 auto;
+}
+.filme2 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.filme2 p {
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+.p2 {
+  background: rgb(255, 0, 0);
+  border-radius: 10px;
+  padding: 8px;
+  width: 300px;
+  margin: auto;
+}
+.filme2 img {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.filme3 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.filme3 p {
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+.p3 {
+  background: rgb(255, 0, 0);
+  border-radius: 10px;
+  padding: 8px;
+  width: 300px;
+  margin: auto;
+}
+.filme3 img {
+  width: 600px;
+  margin: 0 auto;
+}
+.filme4 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.filme4 p {
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+.p4 {
+  background: rgb(255, 0, 0);
+  border-radius: 10px;
+  padding: 8px;
+  width: 300px;
+  margin: auto;
+}
+.filme4 img {
+  width: 600px;
+  margin: 0 auto;
+}
+.filme5 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.filme5 p {
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+.p5 {
+  background: rgb(255, 0, 0);
+  border-radius: 10px;
+  padding: 8px;
+  width: 300px;
+  margin: auto;
+}
+.filme5 img {
+  width: 600px;
+  margin: 0 auto;
+}
+.botao1 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.botao1 a {
+  background: rgb(255, 0, 0);
+  border-radius: 10px;
+  padding: 8px;
+  width: 85px;
+  margin: auto;
+  text-decoration: none;
+  color: #fff;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.botao2 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.botao2 a {
+  background: rgb(255, 0, 0);
+  border-radius: 10px;
+  padding: 8px;
+  width: 85px;
+  margin: auto;
+  text-decoration: none;
+  color: #fff;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.botao3 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.botao3 a {
+  background: rgb(255, 0, 0);
+  border-radius: 10px;
+  padding: 8px;
+  width: 85px;
+  margin: auto;
+  text-decoration: none;
+  color: #fff;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.botao4 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.botao4 a {
+  background: rgb(255, 0, 0);
+  border-radius: 10px;
+  padding: 8px;
+  width: 85px;
+  margin: auto;
+  text-decoration: none;
+  color: #fff;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.botao5 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.botao5 a {
+  background: rgb(255, 0, 0);
+  border-radius: 7px;
+  padding: 8px;
+  width: 85px;
+  margin: auto;
+  text-decoration: none;
+  color: #fff;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.footer {
+  text-decoration: none;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(255, 0, 0);
+  justify-content: center;
+  position: relative;
+}
+.footer p {
+  text-align: center;
+  color: #fff;
+  font-family: sans-serif;
+  padding: 15px;
+}
+
+.footer .asul ul li a {
+  text-decoration: none;
+  color: #fff;
+  margin: 100px;
+  line-height: 35px;
+}
+.footer .asul ul li {
+  list-style: none;
+}
+.footer .asul {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  font-family: sans-serif;
+}
+.footer .foto img {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  bottom: 23px;
+}
